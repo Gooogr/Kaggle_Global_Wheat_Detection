@@ -1,0 +1,5 @@
+classses = 1
+valid = /content/test.txt
+names = /content/yolo_config_files/obj.names
+backup = /content/yolo_weights
+train = /content/train.txt
